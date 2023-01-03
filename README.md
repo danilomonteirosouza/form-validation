@@ -32,7 +32,7 @@ In this project you will see:
 
     * Responsiveness with MediaQuery
     
-    * Flutter widgets like: Container, Scaffold, Text e etc...
+    * Flutter widgets like: Container, Scaffold, Text, Form, SizedBox, Expanded, showModalBottomSheet, ElevatedButton, Stack, SafeArea, Row and Column
     
     * ... in progressive improvement and enhancement
 
